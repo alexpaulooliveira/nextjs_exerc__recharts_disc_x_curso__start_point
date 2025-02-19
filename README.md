@@ -37,3 +37,8 @@ O objetivo deste exercício é aplicar conceitos de integração entre frontend 
 
 6. **Personalização**:
    - Aumente a margem esquerda (`left`) para garantir que os nomes dos cursos tenham espaço suficiente para serem exibidos.
+  
+
+## Resultado Final
+
+ ![Gráfico](img/graf.png)
